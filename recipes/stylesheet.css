@@ -1,0 +1,21 @@
+/* Lasagna style page e*/
+
+
+*{
+    background-color: rgb(255, 240, 213);
+    font-family: sans-serif;
+}
+
+.food-img{
+    width: 50%;
+    height: auto;
+}
+
+h1,
+h2,
+h3{
+    color: rgb(88, 21, 21);
+    letter-spacing: 2px;
+}
+
+
